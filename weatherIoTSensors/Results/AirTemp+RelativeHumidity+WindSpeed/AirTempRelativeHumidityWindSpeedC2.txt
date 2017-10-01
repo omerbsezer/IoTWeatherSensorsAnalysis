@@ -1,0 +1,13 @@
+[7006 rows x 7 columns]
+centroids
+Index(['Name', 'Lat', 'Longt', 'AirTemp', 'RelativeHumidity', 'WindSpeed',
+       'Cluster'],
+      dtype='object')
+normalized centroids:
+[[ 0.6736893   0.70022502  0.04647821]
+ [ 0.71662427  0.23339685  0.05594519]]
+denormalized centroids: AirTemp RelativeHumidity WindSpeed
+[[ 75.87456025  70.02250208   4.64782147]
+ [ 83.2593736   23.33968481   5.59451869]]
+Cluster0 Size: 3687 , Cluster1 Size: 3319
+Cluster0 Color: Red, Cluster1 Color: Green

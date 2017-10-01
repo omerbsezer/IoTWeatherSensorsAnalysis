@@ -1,0 +1,12 @@
+[8420 rows x 5 columns]
+centroids
+Index(['Name', 'Lat', 'Longt', 'AirTemp', 'Cluster'], dtype='object')
+[[ 90.84060999]
+ [ 78.32455528]
+ [ 15.43515057]
+ [ 62.18724003]]
+Cluster0 Size: 2716 , Cluster1 Size: 3931 , Cluster2 Size: 107 , Cluster3 Size: 1666
+max_c0: 151.0  min_c0: 84.6 Color:R
+max_c1: 84.55  min_c1: 70.3 Color:G
+max_c2: 38.7  min_c2: -60.3 Color:B
+max_c3: 70.25  min_c3: 39.2 Color:Y
