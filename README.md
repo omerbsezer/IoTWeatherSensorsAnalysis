@@ -1,4 +1,4 @@
-# IoTWeatherSensorsAnalysis
+# Internet of Things (IoT) Weather Sensor Analysis
 
 In this study, proposed "An Extended IoT Framework" learning part is presented with a use case on weather data clustering analysis.
 
