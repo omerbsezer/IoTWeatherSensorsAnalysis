@@ -1,5 +1,7 @@
 # Internet of Things (IoT) Weather Sensors Analysis
 
+"In this study an extended IoT Framework that integrates the data retrieval, processing, and learning layers is presented with a use case on weather data clustering analysis. The learning model we developed uses clustering unsupervised learning method in the learning phase of the framework in order to best utilize the associated big data for this problem. The US Weather data captured from 8000 different weather stations around North America is acquired through log files. In this particular study, air temperature, wind-speed, relative humidity, visibility, and pressure data are used in the data analysis. Traditional k-means clustering algorithm is applied and the results are presented. As an interesting phenomena, we observed that the data clustering matches the geographical alignment of the stations. In other words, some of the important geographical regions within the North American continent (and the continental USA) form distinct weather clusters and easily differentiated from each other. In addition, possible sensor faults and anomalies are emerged with using clustering method. This use case allowed us to present an example of how such a IoT Big Data framework can be used for such implementations."
+
 In this study, proposed "An Extended IoT Framework" learning part is presented with a use case on weather data clustering analysis.
 
 LinkedSensorData and LinkedObservationData are used for use case scenario. 
@@ -15,4 +17,4 @@ Input Data Set: /SensorsDataSet
 
 Output: /Results (that plots clusters and cluster detail information)
 
-More details are explained soon..
+
