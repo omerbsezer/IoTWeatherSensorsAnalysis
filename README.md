@@ -17,4 +17,30 @@ Input Data Set: /SensorsDataSet
 
 Output: /Results (that plots clusters and cluster detail information)
 
+IEEE Link: http://ieeexplore.ieee.org/document/8258150/
 
+ResearchGate Link: https://www.researchgate.net/publication/322515935_Weather_data_analysis_and_sensor_fault_detection_using_an_extended_IoT_framework_with_semantics_big_data_and_machine_learning
+
+_**Cite as:**_
+
+**Bibtex:**
+
+```
+@INPROCEEDINGS{8258150,
+  author={A. C. Onal and O. Berat Sezer and M. Ozbayoglu and E. Dogdu},
+  booktitle={2017 IEEE International Conference on Big Data (Big Data)},
+  title={Weather data analysis and sensor fault detection using an extended IoT framework with semantics, big data, and machine learning},
+  year={2017},
+  volume={},
+  number={},
+  pages={2037-2046},
+  keywords={Big Data;Data analysis;Feature extraction;Machine learning algorithms;Meteorology;Resource description framework;Semantics;Internet of things;anomaly detection;big data analytics;clustering;fault detection;framework;machine learning;weather data analysis},
+  doi={10.1109/BigData.2017.8258150},
+  ISSN={},
+  month={Dec},
+}
+```
+
+What is K-Means Clustering? (General Information): https://en.wikipedia.org/wiki/K-means_clustering
+
+Scikit-learn: http://scikit-learn.org/stable/
